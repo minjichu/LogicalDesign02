@@ -27,10 +27,13 @@ assign       six_digit_seg = {seg_left, seg_right, seg_left, seg_right, seg_left
 
 ## 결과 ### **Top Module 의 DUT/TestBench Code 및 Waveform 검증**
 ``
+![](https://github.com/minjichu/practice06/blob/master/fig/1.PNG)
 
 ### **FPGA 동작 사진 (3개- 일반, Q1, Q2)**
+![](https://github.com/minjichu/practice06/blob/master/fig_fpga/KakaoTalk_20191104_183052815_02.jpg)
+![](https://github.com/minjichu/practice06/blob/master/fig_fpga/KakaoTalk_20191104_183052815_03.jpg)
 
-![](https://github.com/minjichu/practice06/blob/master/fig_fpga/KakaoTalk_20191104_183943748_02.jpg)
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbODM3MDczNTQwLC0xNjczNDY2NDIzLC0yMD
