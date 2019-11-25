@@ -36,6 +36,6 @@ assign       six_digit_seg = {seg_left, seg_right, seg_left, seg_right, seg_left
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3MDczNTQwLC0xNjczNDY2NDIzLC0yMD
-U1NTA5OTA1XX0=
+eyJoaXN0b3J5IjpbMzk0NTkxMjE2LDgzNzA3MzU0MCwtMTY3Mz
+Q2NjQyMywtMjA1NTUwOTkwNV19
 -->
